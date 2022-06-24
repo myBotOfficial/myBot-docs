@@ -1,0 +1,105 @@
+// @ts-check
+// Note: type annotations allow type checking and IDEs autocompletion
+
+const lightCodeTheme = require('prism-react-renderer/themes/github');
+const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+
+/** @type {import('@docusaurus/types').Config} */
+const config = {
+  title: 'myBot',
+  tagline: 'Cheap custom bots',
+  url: 'https://mybot.host',
+  baseUrl: '/',
+  onBrokenLinks: 'throw',
+  onBrokenMarkdownLinks: 'warn',
+  favicon: 'img/gfx/favicon.ico',
+
+  // GitHub pages deployment config.
+  // If you aren't using GitHub pages, you don't need these.
+  organizationName: 'ethhaqn', // Usually your GitHub org/user name.
+  projectName: 'mybot-docs', // Usually your repo name.
+  deploymentBranch: "deployment",
+  trailingSlash: false,
+
+  // Even if you don't use internalization, you can use this field to set useful
+  // metadata like html lang. For example, if your site is Chinese, you may want
+  // to replace "en" with "zh-Hans".
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en'],
+  },
+
+  presets: [
+    [
+      'classic',
+      /** @type {import('@docusaurus/preset-classic').Options} */
+      ({
+        docs: {
+          routeBasePath: '/docs/',
+          sidebarPath: require.resolve('./sidebars.js'),
+        },
+        blog: {
+          routeBasePath: "/changelog",
+          path: 'changelog',
+          blogTitle: "Changelog",
+          blogDescription: "myBot's history of updates",
+          blogSidebarCount: 'ALL',
+          blogSidebarTitle: 'Changelogs',
+          archiveBasePath: null,
+          postsPerPage: 'ALL',
+          showReadingTime: false
+        },
+        theme: {
+          customCss: require.resolve('./src/css/custom.css'),
+        },
+      }),
+    ],
+  ],
+
+  plugins: [require.resolve("docusaurus-plugin-image-zoom")],
+
+  themeConfig: {
+    zoom: {
+      selector: '.markdown :not(em) > img',
+      config: {
+        // options you can specify via https://github.com/francoischalifour/medium-zoom#usage
+        background: {
+          light: 'rgb(255, 255, 255)',
+          dark: 'rgb(50, 50, 50)'
+        },
+      },
+    },
+
+    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+    navbar: {
+      title: 'Documentation',
+      logo: {
+        alt: 'Logo',
+        src: 'img/gfx/logo.svg',
+        href: '/docs/',
+      },
+      items: [
+        {
+          to: 'changelog',
+          label: 'Changelog',
+          position: 'left'
+        },
+        {
+          href: 'https://discord.mybot.host',
+          label: 'Discord',
+          position: 'right',
+        },
+      ],
+    },
+    footer: {
+      style: 'dark',
+      copyright: `Copyright © ${new Date().getFullYear()} | myBot`,
+    },
+    prism: {
+      theme: lightCodeTheme,
+      darkTheme: darkCodeTheme,
+    },
+  },
+};
+
+module.exports = config;
