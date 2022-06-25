@@ -1,10 +1,3 @@
 node_modules/
-sidebars.js
-README.md
-package-lock.json
-babel.config.js
-static/
-src/
-docs/
-changelog/
 .docusaurus/
+package-lock.json
