@@ -68,6 +68,12 @@ const config = {
       },
     },
 
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: false,
+      respectPrefersColorScheme: false,
+    },
+
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     navbar: {
       title: 'Documentation',
