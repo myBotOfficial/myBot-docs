@@ -22,7 +22,7 @@
             <guid>/v1.2.2</guid>
             <pubDate>Thu, 23 Jun 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Fixed]]></description>
-            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="fixed">Fixed<a class="hash-link" href="#fixed" title="Direct link to heading">​</a></h3><ul><li>You must now have the <code>MANAGE_SERVER</code> permission to use the <code>/embed-editor</code></li><li>Custom bots now have a small unnoticeable credit at the bottom of some embeds</li></ul>]]></content:encoded>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="fixed">Fixed<a class="hash-link" href="#fixed" title="Direct link to heading">​</a></h3><ul><li>You must now have the <code>MANAGE_SERVER</code> permission to use the <code>/embed-editor</code></li><li>Some embeds now have a small unnoticeable credit at the bottom</li></ul>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[v1.2.0]]></title>
