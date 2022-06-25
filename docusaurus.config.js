@@ -62,7 +62,6 @@ const config = {
   /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
   themeConfig: {
     metadata: [
-      { name: "title", content: "myBot Documentation" },
       { name: "keywords", content: "discord bot, cheap, discord, bot" },
       { name: "theme-color", content: "#1e8ef7" }
     ],
