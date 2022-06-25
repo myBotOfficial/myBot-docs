@@ -1,8 +1,11 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
+/** @type {any} */
 const lightCodeTheme = require('prism-react-renderer/themes/github');
+/** @type {any} */
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -58,9 +61,10 @@ const config = {
 
   /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
   themeConfig: {
-    image: "img/gfx/logo.png",
     metadata: [
-      { name: "keywords", content: "discord bot, free" }
+      { name: "keywords", content: "discord bot, free, discord, bot" },
+      { name: "theme-color", content: "#1e8ef7" },
+      { name: "image", content: "https://media.discordapp.net/attachments/497152916767899648/990296885451444324/unknown.png" }
     ],
 
     zoom: {
