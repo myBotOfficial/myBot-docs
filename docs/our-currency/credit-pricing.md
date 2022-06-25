@@ -11,7 +11,6 @@ To purchase credits, run the `/buy-credits` command in our [Discord server](/dis
 **<u>75 CREDITS</u>**<br />
 - PayPal/Cash App: `£22.50`
 - Roblox: `3,750 robux`<br />
-- Discord: `Invite x1 user to our main server` with your own invite link (must stay for at least 30 days to ensure the credit doesn't get removed from you)
 
 **<u>10 CREDITS</u>**<br />
 - PayPal/Cash App: `£3`
@@ -25,6 +24,7 @@ To purchase credits, run the `/buy-credits` command in our [Discord server](/dis
 **<u>1 CREDIT</u>**<br />
 - PayPal/Cash App: `£0.30`
 - Roblox: `50 robux`<br />
+- Discord: `Invite x1 user to our main server` with your own invite link (must stay for at least 30 days to ensure the credit doesn't get removed from you)
 
 :::caution
 
