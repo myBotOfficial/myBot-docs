@@ -60,7 +60,7 @@ const config = {
   themeConfig: {
     image: "img/gfx/logo.png",
     metadata: [
-      { name: "keywords", content: "" }
+      { name: "keywords", content: "discord bot, free" }
     ],
 
     zoom: {
