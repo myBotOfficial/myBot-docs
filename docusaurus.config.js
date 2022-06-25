@@ -63,8 +63,7 @@ const config = {
   themeConfig: {
     metadata: [
       { name: "keywords", content: "discord bot, free, discord, bot" },
-      { name: "theme-color", content: "#1e8ef7" },
-      { name: "image", content: "https://media.discordapp.net/attachments/497152916767899648/990296885451444324/unknown.png" }
+      { name: "theme-color", content: "#1e8ef7" }
     ],
 
     zoom: {
