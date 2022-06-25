@@ -56,7 +56,13 @@ const config = {
 
   plugins: [require.resolve("docusaurus-plugin-image-zoom")],
 
+  /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
   themeConfig: {
+    image: "img/gfx/logo.png",
+    metadata: [
+      { name: "keywords", content: "" }
+    ],
+
     zoom: {
       selector: '.markdown :not(em) > img',
       config: {
@@ -74,7 +80,6 @@ const config = {
       respectPrefersColorScheme: false,
     },
 
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     navbar: {
       title: 'Documentation',
       logo: {
