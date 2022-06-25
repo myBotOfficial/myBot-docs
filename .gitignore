@@ -1,7 +1,7 @@
 node_modules/
 sidebars.js
 README.md
-package.json
+package-lock.json
 docusaurus.config.js
 babel.config.js
 static/
