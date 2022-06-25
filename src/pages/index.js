@@ -7,7 +7,9 @@ export default function Index() {
     <>
       <Head>
         <meta name="title" content="myBot Documentation" />
+        <meta name="og:title" content="myBot Documentation" />
         <meta name="image" content="https://mybot.host/img/gfx/logo.png" />
+        <meta name="og:image" content="https://mybot.host/img/gfx/logo.png" />
       </Head>
 
       <Redirect to="/docs/" />
