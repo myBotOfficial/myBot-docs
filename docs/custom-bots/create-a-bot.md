@@ -40,7 +40,7 @@ Once you’ve done that, you should see `Copy`. Click that. You may now close th
 ## Step 4
 
 Go to the [#bot-commands](/discord) channel and type `/create-bot`. You’ll be prompted to enter 3 pieces of information:
-- Plan: [monthly or lifetime payment](/docs/our-currency/payment-plans)
+- Plan: [monthly payment, lifetime payment or free 7-day trial](/docs/our-currency/payment-plans)
 - Token: the thing you copied from [step 3](/docs/custom-bots/create-a-bot#step-3)
 - Main Server ID: the ID of the server which you’ll be using your bot in (follow [this](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID) tutorial to learn how to retrieve it)
 
