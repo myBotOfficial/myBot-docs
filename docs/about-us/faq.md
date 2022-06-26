@@ -25,7 +25,7 @@ We understand that being a new member of a community can be quite daunting at ti
 ### Why don’t my bot's commands appear?
 
 > Please follow these steps, each time checking whether your issue was fixed or not:
-1. Enable the `Administrator` permission
+1. Enable your bot's `Administrator` permission
 2. Invite your bot with the link provided when you run the `/bots` command in our [server](/discord)
 3. Refresh Discord (CTRL+R for desktop or force-close the app for mobile)
 4. Re-invite your bot
