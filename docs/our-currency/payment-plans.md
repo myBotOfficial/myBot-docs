@@ -30,7 +30,7 @@ You're eligible for a free trial if you meet **all** of these requirements:
 - You've never had a free trial before
 - Your server has never had a free trial before
 - The bot has never had a free trial before
-- You don't already own a custom bot with us
+- You don't already have a custom bot with us
 - Your Discord account is over 2 weeks old
 
 ---
