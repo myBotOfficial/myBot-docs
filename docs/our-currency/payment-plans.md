@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ---
 
-There are two plans to choose from when purchasing a bot:
+There are three plans to choose from when purchasing a bot:
 
 ## Lifetime
 
