@@ -97,7 +97,7 @@ const config = {
           position: 'left'
         },
         {
-          href: 'https://discord.mybot.host',
+          to: 'discord',
           label: 'Discord',
           position: 'right',
         },
