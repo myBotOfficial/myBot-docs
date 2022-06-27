@@ -26,30 +26,36 @@ There are many settings available for you to configure, hence the name **custom*
 <Tabs>
   <TabItem value="botInfo" label="Bot Info" default>
 
-| Setting  | Description                                  | Type   | Notes                                 |
-|----------|----------------------------------------------|--------|---------------------------------------|
-| Name     | The name of your bot                         | Text   | Only editable via https://discord.dev |
-| About Me | The 'About Me' section of your bot's profile | Text   | Only editable via https://discord.dev |
-| ID       | The ID of your bot                           | Number | Not editable                          |
-| Prefix   | The prefix of your bot                       | Text   | Not editable                          |
+| Setting | Description            | Type   | Notes                                 |
+|---------|------------------------|--------|---------------------------------------|
+| Name    | The name of your bot   | Text   | Only editable via https://discord.dev |
+| ID      | The ID of your bot     | Number | Not editable                          |
+| Prefix  | The prefix of your bot | Text   | Not editable                          |
 
   </TabItem>
   <TabItem value="mainSettings" label="Main Settings">
 
-| Setting          | Description                                                 | Type               | Notes                                                           |
-|------------------|-------------------------------------------------------------|--------------------|-----------------------------------------------------------------|
-| Theme Color      | The theme color of your bot                                 | Hex                | Will be the color of most embeds                                |
-| Status           | The status of your bot                                      | Text               | Must begin with either `Playing`, `Listening to`, or `Watching` |
-| Mod Call Channel | The channel which all /callmod notifications are sent       | Channel Name or ID |                                                                 |
-| Join Role        | The role which all people who join your server will receive | Role Name or ID    |                                                                 |
+| Setting     | Description                 | Type               | Notes                                                           |
+|-------------|-----------------------------|--------------------|-----------------------------------------------------------------|
+| Theme Color | The theme color of your bot | Hex                | Will be the color of most embeds                                |
+| Status      | The status of your bot      | Text               | Must begin with either `Playing`, `Listening to`, or `Watching` |
 
   </TabItem>
-  <TabItem value="memberLogging" label="Member Logging">
+  <TabItem value="memberManagement" label="Member Management">
 
 | Setting           | Description                                                   | Type               | Notes |
 |-------------------|---------------------------------------------------------------|--------------------|-------|
 | Join Log Channel  | The channel which all people who join your server are logged  | Channel Name or ID |       |
 | Leave Log Channel | The channel which all people who leave your server are logged | Channel Name or ID |       |
+| Join Role         | The role which all people who join your server will receive   | Role Name or ID    |       |
+
+  </TabItem>
+  <TabItem value="discordRobloxModeration" label="Disocrd --> Roblox Moderation">
+
+| Setting                     | Description                                                           | Type               | Notes |
+|-----------------------------|-----------------------------------------------------------------------|--------------------|-------|
+| Game Moderator Role         | Users who have this role will be able to run game moderation commands | Role Name or ID    |       |
+| Game Moderation Log Channel | The channel which all game moderation action is logged to             | Channel Name or ID |       |
 
   </TabItem>
   <TabItem value="moderationSettings" label="Moderation Settings">
@@ -58,6 +64,7 @@ There are many settings available for you to configure, hence the name **custom*
 |------------------------|------------------------------------------------------------------|--------------------|-------|
 | Moderator Role         | Users who have this role will be able to run moderation commands | Role Name or ID    |       |
 | Moderation Log Channel | The channel which all moderation action is logged to             | Channel Name or ID |       |
+| Mod Call Channel       | The channel which all /callmod notifications are sent            | Channel Name or ID |       |
 
   </TabItem>
 </Tabs>
@@ -188,6 +195,6 @@ The embed editor was designed for ease of access on all platforms and currently 
 - Up to 5 fields (each with a custom name and value)
 --- 
 
-## Disocrd --> Roblox Moderation
+## Discord --> Roblox Moderation
 
 Coming soon...
