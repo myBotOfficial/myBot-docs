@@ -188,5 +188,6 @@ The embed editor was designed for ease of access on all platforms and currently 
 - Up to 5 fields (each with a custom name and value)
 --- 
 
-## Disocrd --> Roblox Moderation Sytem
+## Disocrd --> Roblox Moderation
 
+Coming soon...
