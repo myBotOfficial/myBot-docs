@@ -186,3 +186,7 @@ The embed editor was designed for ease of access on all platforms and currently 
 - A custom image
 - A custom footer
 - Up to 5 fields (each with a custom name and value)
+--- 
+
+## Disocrd --> Roblox Moderation Sytem
+
