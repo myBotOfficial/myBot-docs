@@ -4,10 +4,18 @@
         <title>myBot Blog</title>
         <link>https://mybot.host/changelog</link>
         <description>myBot Blog</description>
-        <lastBuildDate>Sun, 26 Jun 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[v1.2.3]]></title>
+            <link>https://mybot.host/changelog/v1.2.3</link>
+            <guid>/v1.2.3</guid>
+            <pubDate>Mon, 27 Jun 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Added]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="added">Added<a class="hash-link" href="#added" title="Direct link to heading">​</a></h3><ul><li>Join logs now flag accounts created in the last 30 days</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="fixed">Fixed<a class="hash-link" href="#fixed" title="Direct link to heading">​</a></h3><ul><li>The <code>/settings</code> system is now case-insensitive for both roles and channels</li></ul>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[v1.2.2]]></title>
             <link>https://mybot.host/changelog/v1.2.2</link>
