@@ -1,4 +1,6 @@
 ---
+title: Terms & Conditions
+description: Our terms & conditions.
 sidebar_position: 3
 ---
 

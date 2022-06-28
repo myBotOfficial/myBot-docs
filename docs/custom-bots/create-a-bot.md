@@ -1,4 +1,6 @@
 ---
+title: How to Create a Bot
+description: This page walks you through step-by-step how to create a custom bot with [many features](/docs/custom-bots/features) in under 2 minutes with myBot!
 sidebar_position: 2
 ---
 

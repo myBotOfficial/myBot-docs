@@ -1,4 +1,6 @@
 ---
+title: Features
+description: This page thoroughly explains all of your custom bot's features.
 sidebar_position: 1
 ---
 

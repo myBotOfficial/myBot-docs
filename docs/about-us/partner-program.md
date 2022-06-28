@@ -1,4 +1,6 @@
 ---
+title: Partner Program
+description: myBot is always looking for companies to partner with!
 sidebar_position: 3
 ---
 

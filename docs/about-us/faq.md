@@ -1,4 +1,6 @@
 ---
+title: Frequently Asked Questions
+description: We understand that being a new member of a community can be quite daunting at times, which is why we’ve put together a list of frequently asked questions!
 sidebar_position: 2
 ---
 

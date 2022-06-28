@@ -1,4 +1,6 @@
 ---
+title: Credit Pricing
+description: Our pricing info.
 sidebar_position: 2
 ---
 

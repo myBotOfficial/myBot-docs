@@ -1,4 +1,6 @@
 ---
+title: Payment Plans
+description: Our payment plans.
 sidebar_position: 1
 ---
 

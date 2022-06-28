@@ -1,4 +1,6 @@
 ---
+title: About Us
+description: Welcome to the official myBot documentation!
 sidebar_position: 1
 slug: /
 ---
