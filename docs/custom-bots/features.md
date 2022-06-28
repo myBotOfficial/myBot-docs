@@ -50,7 +50,7 @@ There are many settings available for you to configure, hence the name **custom*
 | Join Role         | The role which all people who join your server will receive   | Role Name or ID    |       |
 
   </TabItem>
-  <TabItem value="discordRobloxModeration" label="Disocrd --> Roblox Moderation">
+  <TabItem value="discordRobloxModeration" label="Discord --> Roblox Moderation">
 
 | Setting                     | Description                                                           | Type               | Notes |
 |-----------------------------|-----------------------------------------------------------------------|--------------------|-------|
