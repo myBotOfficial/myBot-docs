@@ -6,10 +6,10 @@ export default function Index() {
   return (
     <>
       <Head>
-        <meta property="title" content="myBot Documentation" />
-        <meta property="og:title" content="myBot Documentation" />
-        {/* <meta property="image" content="https://mybot.host/img/gfx/logo.png" />
-        <meta property="og:image" content="https://mybot.host/img/gfx/logo.png" /> */}
+        <meta property="title" content="About Us | myBot" />
+        <meta property="og:title" content="About Us | myBot" />
+        <meta property="description" content="Welcome to the official myBot documentation!" />
+        <meta property="og:description" content="Welcome to the official myBot documentation!" />
       </Head>
 
       <Redirect to="/docs/" />
