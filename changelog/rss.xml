@@ -13,7 +13,7 @@
             <link>https://mybot.host/changelog/v1.2.3</link>
             <guid>/v1.2.3</guid>
             <pubDate>Mon, 27 Jun 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Added]]></description>
+            <description><![CDATA[Changelog for myBot v1.2.3]]></description>
             <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="added">Added<a class="hash-link" href="#added" title="Direct link to heading">​</a></h3><ul><li>Join logs now flag accounts created in the last 30 days</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="fixed">Fixed<a class="hash-link" href="#fixed" title="Direct link to heading">​</a></h3><ul><li>The <code>/settings</code> system is now case-insensitive for both roles and channels</li></ul>]]></content:encoded>
         </item>
         <item>
@@ -21,7 +21,7 @@
             <link>https://mybot.host/changelog/v1.2.2</link>
             <guid>/v1.2.2</guid>
             <pubDate>Sun, 26 Jun 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Fixed]]></description>
+            <description><![CDATA[Changelog for myBot v1.2.2]]></description>
             <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="fixed">Fixed<a class="hash-link" href="#fixed" title="Direct link to heading">​</a></h3><ul><li>You must now have the <code>MANAGE_SERVER</code> permission to use the <code>/embed-editor</code></li><li>Some embeds now have a small unnoticeable credit at the bottom</li></ul>]]></content:encoded>
         </item>
         <item>
@@ -29,7 +29,7 @@
             <link>https://mybot.host/changelog/v1.2.1</link>
             <guid>/v1.2.1</guid>
             <pubDate>Thu, 23 Jun 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Added]]></description>
+            <description><![CDATA[Changelog for myBot v1.2.1]]></description>
             <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="added">Added<a class="hash-link" href="#added" title="Direct link to heading">​</a></h3><ul><li>New <code>Leave Log Channel</code> setting<ul><li>Users who leave the server will be logged in this channel.</li></ul></li><li>Join logs now include the user who invited them to the server</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="fixed">Fixed<a class="hash-link" href="#fixed" title="Direct link to heading">​</a></h3><ul><li>Invites now accurately count</li></ul>]]></content:encoded>
         </item>
         <item>
@@ -37,7 +37,7 @@
             <link>https://mybot.host/changelog/v1.2.0</link>
             <guid>/v1.2.0</guid>
             <pubDate>Tue, 21 Jun 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Removed]]></description>
+            <description><![CDATA[Changelog for myBot v1.2.0]]></description>
             <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="removed">Removed<a class="hash-link" href="#removed" title="Direct link to heading">​</a></h3><ul><li><code>Time</code> option from the <code>/ban</code> command</li></ul>]]></content:encoded>
         </item>
         <item>
@@ -45,7 +45,7 @@
             <link>https://mybot.host/changelog/v1.1.9</link>
             <guid>/v1.1.9</guid>
             <pubDate>Tue, 14 Jun 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Added]]></description>
+            <description><![CDATA[Changelog for myBot v1.1.9]]></description>
             <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="added">Added<a class="hash-link" href="#added" title="Direct link to heading">​</a></h3><ul><li><code>/invites</code> command<ul><li>Your bot can only track invites from the moment it was added to your server.</li><li>Your bot must have the <code>MANAGE_SERVER</code> permission in order to track and display invites.</li></ul></li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="fixed">Fixed<a class="hash-link" href="#fixed" title="Direct link to heading">​</a></h3><ul><li>The <code>/dm</code> command now properly takes line-breaks with <code>\n</code></li></ul>]]></content:encoded>
         </item>
         <item>
@@ -53,7 +53,7 @@
             <link>https://mybot.host/changelog/v1.1.8</link>
             <guid>/v1.1.8</guid>
             <pubDate>Sat, 11 Jun 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Fixed]]></description>
+            <description><![CDATA[Changelog for myBot v1.1.8]]></description>
             <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="fixed">Fixed<a class="hash-link" href="#fixed" title="Direct link to heading">​</a></h3><ul><li>Timed bans</li><li>Polished the <code>/dm</code> command</li></ul>]]></content:encoded>
         </item>
         <item>
@@ -61,7 +61,7 @@
             <link>https://mybot.host/changelog/v1.1.7</link>
             <guid>/v1.1.7</guid>
             <pubDate>Fri, 10 Jun 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Added]]></description>
+            <description><![CDATA[Changelog for myBot v1.1.7]]></description>
             <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="added">Added<a class="hash-link" href="#added" title="Direct link to heading">​</a></h3><ul><li><code>/dm</code> command</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="fixed">Fixed<a class="hash-link" href="#fixed" title="Direct link to heading">​</a></h3><ul><li>The <code>/kick</code> command now provides a more descriptive reason in the audit log</li></ul>]]></content:encoded>
         </item>
         <item>
@@ -69,7 +69,7 @@
             <link>https://mybot.host/changelog/v1.1.6</link>
             <guid>/v1.1.6</guid>
             <pubDate>Mon, 06 Jun 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Fixed]]></description>
+            <description><![CDATA[Changelog for myBot v1.1.6]]></description>
             <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="fixed">Fixed<a class="hash-link" href="#fixed" title="Direct link to heading">​</a></h3><ul><li>Fixed all commands which were failing to run due to a global error in the bot<ul><li>Issues like this can be fixed quicker if they're reported.</li></ul></li><li>The <code>User</code> input of the <code>/avatar</code> command is now optional<ul><li>Defaults to the user that ran the command if no user is specified.</li></ul></li></ul>]]></content:encoded>
         </item>
         <item>
@@ -77,7 +77,7 @@
             <link>https://mybot.host/changelog/v1.1.5</link>
             <guid>/v1.1.5</guid>
             <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Added]]></description>
+            <description><![CDATA[Changelog for myBot v1.1.5]]></description>
             <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="added">Added<a class="hash-link" href="#added" title="Direct link to heading">​</a></h3><ul><li><code>Image</code> property to the <code>/embed-editor</code></li><li><code>Mod Call Channel</code> setting<ul><li>Once configured, users will be able to use the <code>/callmod</code> command which will send a message to the configured Mod Call Channel and ping the configured <code>Moderator Role</code> (if it exists).</li><li>Has a cooldown of 20 seconds per user, per use.</li></ul></li></ul>]]></content:encoded>
         </item>
         <item>
@@ -85,7 +85,7 @@
             <link>https://mybot.host/changelog/v1.1.4</link>
             <guid>/v1.1.4</guid>
             <pubDate>Sun, 22 May 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Added]]></description>
+            <description><![CDATA[Changelog for myBot v1.1.4]]></description>
             <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="added">Added<a class="hash-link" href="#added" title="Direct link to heading">​</a></h3><ul><li><code>/embed-editor</code> command</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="fixed">Fixed<a class="hash-link" href="#fixed" title="Direct link to heading">​</a></h3><ul><li>The <code>/avatar</code> command now works on users who aren't in your server</li></ul>]]></content:encoded>
         </item>
         <item>
@@ -93,7 +93,7 @@
             <link>https://mybot.host/changelog/v1.0.4</link>
             <guid>/v1.0.4</guid>
             <pubDate>Wed, 18 May 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Fixed]]></description>
+            <description><![CDATA[Changelog for myBot v1.0.4]]></description>
             <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="fixed">Fixed<a class="hash-link" href="#fixed" title="Direct link to heading">​</a></h3><ul><li>The <code>/avatar</code> command now allows optional <code>Size</code> and <code>Extension</code> inputs</li><li>Added some more negative responses to the <code>/8ball</code> command</li><li>To change a setting back to its default value, you must now leave the prompt empty<ul><li>This was previously achieved by specifying "None".</li></ul></li></ul>]]></content:encoded>
         </item>
         <item>
@@ -101,7 +101,7 @@
             <link>https://mybot.host/changelog/v1.0.3</link>
             <guid>/v1.0.3</guid>
             <pubDate>Tue, 17 May 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Added]]></description>
+            <description><![CDATA[Changelog for myBot v1.0.3]]></description>
             <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="added">Added<a class="hash-link" href="#added" title="Direct link to heading">​</a></h3><ul><li><code>/avatar</code> command</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="fixed">Fixed<a class="hash-link" href="#fixed" title="Direct link to heading">​</a></h3><ul><li>Occasional errors with the <code>/say</code> command</li><li>The <code>/remove-modlog</code> command now allows an optional <code>Reason</code> input</li><li>The <code>/remove-modlog</code> command is now logged to your configured <code>Moderation Log Channel</code>.</li></ul>]]></content:encoded>
         </item>
         <item>
@@ -109,7 +109,7 @@
             <link>https://mybot.host/changelog/v1.0.2</link>
             <guid>/v1.0.2</guid>
             <pubDate>Mon, 16 May 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Added]]></description>
+            <description><![CDATA[Changelog for myBot v1.0.2]]></description>
             <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="added">Added<a class="hash-link" href="#added" title="Direct link to heading">​</a></h3><ul><li><code>/member-count</code> command</li><li><code>/say</code> command<ul><li>Use <code>\n</code> for line-breaks.</li></ul></li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="fixed">Fixed<a class="hash-link" href="#fixed" title="Direct link to heading">​</a></h3><ul><li>Issues when banning someone who isn't in the server</li><li>Upgraded the <code>/settings</code> command for a cleaner look and quality-of-life improvements</li></ul>]]></content:encoded>
         </item>
         <item>
@@ -117,7 +117,7 @@
             <link>https://mybot.host/changelog/v1.0.1</link>
             <guid>/v1.0.1</guid>
             <pubDate>Fri, 13 May 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Added]]></description>
+            <description><![CDATA[Changelog for myBot v1.0.1]]></description>
             <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="added">Added<a class="hash-link" href="#added" title="Direct link to heading">​</a></h3><ul><li>Character limit handling to the <code>/userinfo</code> command for the role list</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="fixed">Fixed<a class="hash-link" href="#fixed" title="Direct link to heading">​</a></h3><ul><li>Logging for the <code>/purge</code> command</li><li>Issue where join logs would send to your configured <code>Moderation Log Channel</code><ul><li>They now send to your <code>Join Log Channel</code>.</li></ul></li></ul>]]></content:encoded>
         </item>
         <item>
@@ -125,7 +125,7 @@
             <link>https://mybot.host/changelog/v1.0.0</link>
             <guid>/v1.0.0</guid>
             <pubDate>Thu, 12 May 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Added]]></description>
+            <description><![CDATA[Changelog for myBot v1.0.0]]></description>
             <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="added">Added<a class="hash-link" href="#added" title="Direct link to heading">​</a></h3><ul><li><code>/settings</code> command<ul><li>For anyone with the <code>MANAGE_SERVER</code> permission</li></ul></li><li><code>/8ball</code> command</li><li><code>/coinflip</code> command</li><li><code>/joke</code> command</li><li><code>/github</code> command</li><li><code>/roleinfo</code> command</li><li><code>/serverinfo</code> command</li><li><code>/userinfo</code> command</li><li><code>/lmgtfy</code> command</li><li><code>/ban</code> command</li><li><code>/unban</code> command</li><li><code>/reverse-tax</code> command</li><li><code>/tax</code> command</li><li><code>/hypixel-stats</code> command</li><li><code>/osu-stats</code> command</li><li><code>/warn</code> command<ul><li>For anyone with the configured <code>Moderator Role</code><ul><li>If there's no configured role, you must instead have the <code>MODERATE_MEMBERS</code> permission to use this command.</li></ul></li></ul></li><li><code>/ban</code> command<ul><li>For anyone with the configured <code>Moderator Role</code><ul><li>If there's no configured role, you must instead have the <code>BAN_MEMBERS</code> permission to use this command.</li></ul></li></ul></li><li><code>/kick</code> command<ul><li>For anyone with the configured <code>Moderator Role</code><ul><li>If there's no configured role, you must instead have the <code>KICK_MEMBERS</code> permission to use this command.</li></ul></li></ul></li><li><code>/modlogs</code> command<ul><li>For anyone with the configured <code>Moderator Role</code><ul><li>If there's no configured role, you must instead have the <code>MODERATE_MEMBERS</code> permission to use this command.</li></ul></li></ul></li><li><code>/purge</code> command<ul><li>For anyone with the configured <code>Moderator Role</code><ul><li>If there's no configured role, you must instead have the <code>MANAGE_MESSAGES</code> permission to use this command.</li></ul></li></ul></li><li><code>/remove-modlog</code> command<ul><li>For anyone with the configured <code>Moderator Role</code><ul><li>If there's no configured role, you must instead have the <code>MODERATE_MEMBERS</code> permission to use this command.</li></ul></li></ul></li><li><code>/remove-timeout</code> command<ul><li>For anyone with the configured <code>Moderator Role</code><ul><li>If there's no configured role, you must instead have the <code>MODERATE_MEMBERS</code> permission to use this command.</li></ul></li></ul></li><li><code>/timeout</code> command<ul><li>For anyone with the configured <code>Moderator Role</code><ul><li>If there's no configured role, you must instead have the <code>MODERATE_MEMBERS</code> permission to use this command.</li></ul></li></ul></li></ul>]]></content:encoded>
         </item>
     </channel>
