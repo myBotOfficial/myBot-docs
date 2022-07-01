@@ -56,6 +56,7 @@ There are many settings available for you to configure, hence the name **custom*
 
 | Setting                     | Description                                                           | Type               | Notes |
 |-----------------------------|-----------------------------------------------------------------------|--------------------|-------|
+| Place ID                    | The place ID of your Roblox game                                      | Number             |       |
 | Game Moderator Role         | Users who have this role will be able to run game moderation commands | Role Name or ID    |       |
 | Game Moderation Log Channel | The channel which all game moderation action is logged to             | Channel Name or ID |       |
 
@@ -79,8 +80,6 @@ Here's a list of your custom bot's fun commands:
 - `/coinflip` - flip a coin
 - `/joke` - your bot will tell you a joke
 
----
-
 ## Informational Commands
 
 Here's a list of your custom bot's informational commands:
@@ -98,8 +97,6 @@ Here's a list of your custom bot's informational commands:
 - `/userinfo` - displays information about a Discord user
   - Argument #1: `User` (not required)
 
----
-
 ## Miscellaneous Commands
 
 Here's a list of your custom bot's miscellaneous commands:
@@ -110,8 +107,10 @@ Here's a list of your custom bot's miscellaneous commands:
   - Argument #1: `User` (not required)
 - `/lmgtfy` - for when someone would rather bother you with their question than Google it for themselves
   - Argument #1: `Question` (required)
-
----
+- `/tax` - calculates how much a person would receive if you paid the specified amount of robux
+  - Argument #1: `Amount` (required)
+- `/reverse-tax` - calculates how much a person would need to pay for the other person receive the specified amount of robux
+  - Argument #1: `Amount` (required)
 
 ## Moderation Commands
 
@@ -177,7 +176,40 @@ All executed moderation commands will be logged to your configured [Moderation L
 
 :::
 
---- 
+## Roblox Moderation Commands
+
+Here's a list of your custom bot's [Roblox moderation](/docs/custom-bots/features#discord----roblox-moderation) commands:
+- `/gameban` - bans a user from your game
+  - For anyone with the configured `Game Moderator Role`
+    - If there's no configured role, you must instead have the configured `Moderator Role`.
+      - If there's no configured role, you must instead have the `BAN_MEMBERS` permission to use this command.
+  - Argument #1: `User` (required)
+  - Argument #2: `Reason` (required)
+  - Argument #3: `Days` (required)
+  - Argumnt #4: `Evidence` (not required)
+- `/gamekick` - kicks a user from your game
+  - For anyone with the configured `Game Moderator Role`
+    - If there's no configured role, you must instead have the configured `Moderator Role`.
+      - If there's no configured role, you must instead have the `BAN_MEMBERS` permission to use this command.
+  - Argument #1: `User` (required)
+  - Argument #2: `Reason` (required)
+- `/gamelogs` - displays a player's game moderation logs
+  - For anyone with the configured `Game Moderator Role`
+    - If there's no configured role, you must instead have the configured `Moderator Role`.
+      - If there's no configured role, you must instead have the `BAN_MEMBERS` permission to use this command.
+  - Argument #1: `User` (required)
+- `/gameunban` - unbans a player from your game
+  - For anyone with the configured `Game Moderator Role`
+    - If there's no configured role, you must instead have the configured `Moderator Role`.
+      - If there's no configured role, you must instead have the `BAN_MEMBERS` permission to use this command.
+  - Argument #1: `User` (required)
+  - Argument #2: `Reason` (not required)
+
+:::info
+
+All executed Roblox moderation commands will be logged to your configured [Game Moderation Log Channel](/docs/custom-bots/features#settings).
+
+:::
 
 ## Embed Editor
 
@@ -195,8 +227,15 @@ The embed editor was designed for ease of access on all platforms and currently 
 - A custom image
 - A custom footer
 - Up to 5 fields (each with a custom name and value)
---- 
 
 ## Discord --> Roblox Moderation
 
-Coming soon...
+myBot offers a Discord --> Roblox moderation system which allows you to moderate players your game right from the comfort of your own Discord server! This is perfect for those who aren't always able to open Roblox and for those who'd like a more effective moderation system for their game.
+
+Here's a guide on how to set it up:
+
+1. Visit [this link](https://www.roblox.com/library/10066799586/myBot-Moderation-System), click 'Get' after signing into your Roblox account, and then open Roblox Studio
+2. Insert the model into your game and place the provided script into `ServerScriptService`
+3. Enable 'Allow HTTP Requests' under the `Security` tab of your game settings
+4. Run the `/settings` command with your custom bot and click 'Edit Settings'. Specify 'Place ID' for the `Setting` and input your game's place ID into `New Value`. If you don't know your place ID then run the following command in your command bar: `print(game.PlaceId)`
+5. Enjoy! You now have effective Roblox moderation commands in the comfort of your own Discord server; all provided by myBot!
