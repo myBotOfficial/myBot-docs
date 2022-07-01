@@ -4,10 +4,18 @@
         <title>myBot Blog</title>
         <link>https://mybot.host/changelog</link>
         <description>myBot Blog</description>
-        <lastBuildDate>Mon, 27 Jun 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[v1.3.3]]></title>
+            <link>https://mybot.host/changelog/v1.3.3</link>
+            <guid>/v1.3.3</guid>
+            <pubDate>Fri, 01 Jul 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Changelog for myBot v1.3.3]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="added">Added<a class="hash-link" href="#added" title="Direct link to heading">​</a></h3><ul><li>Discord --&gt; Roblox Moderation commands, read more <a href="/docs/custom-bots/features#roblox-moderation-commands">here</a> and <a href="/docs/custom-bots/features#discord----roblox-moderation">here</a></li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="fixed">Fixed<a class="hash-link" href="#fixed" title="Direct link to heading">​</a></h3><ul><li>You can now properly remove fields in the <code>/embed-editor</code> by leaving the field blank</li><li>Fixed <code>/modlogs</code> formatting for timed punishments</li><li>If the first or last login is unavailable in the <code>/hypixel-stats</code> command, it now returns <code>Unavailable</code>; as opposed to <code>53 years ago</code></li></ul>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[v1.2.3]]></title>
             <link>https://mybot.host/changelog/v1.2.3</link>
