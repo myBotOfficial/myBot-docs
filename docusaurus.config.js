@@ -17,8 +17,8 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/gfx/favicon.ico',
 
-  organizationName: "ethhaqn.github.io",
-  projectName: "mybot-docs",
+  organizationName: "myBotOfficial.github.io",
+  projectName: "myBot-docs",
   deploymentBranch: "gh-pages",
   trailingSlash: false,
 
