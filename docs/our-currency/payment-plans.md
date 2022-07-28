@@ -10,10 +10,6 @@ sidebar_position: 1
 
 There are three plans to choose from when purchasing a bot:
 
-## Lifetime
-
-A one-time payment of 75 [credits](/docs/our-currency/credit-pricing); perfect for anyone who doesn’t want to worry about payments down the line!
-
 ## Monthly
 
 A monthly payment of 10 [credits](/docs/our-currency/credit-pricing); perfect for people who would rather pay in monthly instalments! Here’s some useful information regarding monthly plans:

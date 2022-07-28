@@ -53,6 +53,4 @@ We understand that being a new member of a community can be quite daunting at ti
 
 ### Why does it cost so much just to buy a bot?
 
-> If you buy our lifetime plan which costs a one-time payment of £22.50, it’s actually extremely cheap considering the fact that you get a fully customizable bot (which receives automatic updates every week) with many features.
->
 > The payments we receive don’t even cover our monthly expenses, meaning that we don’t earn any profit. In fact, we’re taking money from our own pocket to pay our hosting provider every month to ensure myBot stays cheap forever.
