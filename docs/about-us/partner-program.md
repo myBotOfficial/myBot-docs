@@ -16,7 +16,6 @@ myBot is always looking for companies to partner with!
 - Your server will be posted in the [#affiliate-announcements](/discord) channel
 - Your server is likely to be talked about in day-to-day conversations
 - Representatives of your server will receive access to an exclusive channel which has direct contact with the creators
-- We will follow 1-2 of your channels in [#affiliate-messages](/discord)
 
 ## Requirements
 
@@ -31,7 +30,6 @@ Your server must:
 Additional:
 
 - You must have at least 2 representatives join our [server](/discord)
-- You must follow at least one of our following channels: [#announcements](/discord), [#update-log](/discord)
 - All staff of your server must remain respectful, professional and mature in all channels of our server and all non-staff channels of your server
 - The person organising the affiliation must be a staff member or a staff member in-training in your server
 
