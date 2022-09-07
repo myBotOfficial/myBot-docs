@@ -25,7 +25,6 @@ To purchase credits, run the `/buy-credits` command in our [Discord server](/dis
 **<u>1 CREDIT</u>**
 - PayPal: `£0.30`
 - Roblox: `50 robux`
-- Discord: `Invite x1 user to our main server` with your own invite link (must stay for at least 30 days to ensure the credit doesn't get removed from you)
 
 :::caution
 
